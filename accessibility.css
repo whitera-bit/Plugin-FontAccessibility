@@ -1,0 +1,25 @@
+#post2_message {
+	font-size: 14px;
+	line-height: 180%;
+}
+
+.index2_font-size {
+  position: fixed;
+  bottom: 5px;
+  right: 5px;
+	float: left;
+}
+
+.index2_font-size input {
+  background: #2e2e2e;
+  border: none;
+  padding: 10px;
+  color: #efefef;
+  border-radius: 2px;
+}
+
+.index2_font-size input:hover {
+  cursor: pointer;
+  background: #efefef;
+  color: #2e2e2e;
+}
