@@ -1,0 +1,7 @@
+<head>
+#post2_message {
+font-size: {$accessibility_font-size};
+}
+
+
+</head>
